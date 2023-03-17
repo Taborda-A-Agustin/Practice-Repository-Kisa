@@ -8,4 +8,4 @@ Integer a quam et justo sodales malesuada quis a leo.
 git status muestr cambios en el repo (rojo falta adherirlos y despues hacer un comit)
 git add . 
 git reset
-git commit -m "lo que vaya"asdasdasdaasdasda
+git commit -m "lo que vaya"
