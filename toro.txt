@@ -6,6 +6,6 @@ Sed dignissim tellus nec pharetra consequat.
 Aenean hendrerit ligula et justo lacinia faucibus.
 Integer a quam et justo sodales malesuada quis a leo.
 git status muestr cambios en el repo (rojo falta adherirlos y despues hacer un comit) Diego
-git add . Javi
+git add . Javi Aca estoy modificando esto en vivo
 git reset Toro
 git commit -m "lo que vaya" Mati
