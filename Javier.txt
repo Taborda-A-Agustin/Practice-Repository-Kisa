@@ -1,1 +1,1 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nunc turpis, feugiat non lorem nec, fermentum efficitur nulla. Proin id nulla ipsum. Proin quis iaculis nisi. Nam at euismod eros.
+Esto es un comentario de prueba.
