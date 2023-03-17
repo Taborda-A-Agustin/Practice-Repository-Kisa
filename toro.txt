@@ -5,7 +5,7 @@ Nulla lacinia odio tempor lorem vehicula, non mattis ante tincidunt.
 Sed dignissim tellus nec pharetra consequat.
 Aenean hendrerit ligula et justo lacinia faucibus.
 Integer a quam et justo sodales malesuada quis a leo.
-git status muestr cambios en el repo (rojo falta adherirlos y despues hacer un comit)
-git add . 
-git reset
-git commit -m "lo que vaya"
+git status muestr cambios en el repo (rojo falta adherirlos y despues hacer un comit) Diego
+git add . Javi Aca estoy modificando esto en vivo dsfgsdfgdf Javi Aca estoy modificando esto en vivo dsfgsdfgdf
+git reset Toro
+git commit -m "lo que vaya" Mati
