@@ -2,10 +2,11 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Vestibulum semper metus eu erat bibendum faucibus.
 Nulla lacinia odio tempor lorem vehicula, non mattis ante tincidunt.
-Sed dignissim tellus nec pharetra consequat.
+Soi trolleus en el lol tellus nec feed constantimenti consequat toribius in su prime, bankan.
 Aenean hendrerit ligula et justo lacinia faucibus.
 Integer a quam et justo sodales malesuada quis a leo.
 git status muestr cambios en el repo (rojo falta adherirlos y despues hacer un comit) Diego
-git add . Javi Aca estoy modificando esto en vivo. Vuelvo a modificar otra vez todo
-git reset Toro
+git add . Javi Aca estoy modificando esto en vivo  Vuelvo a modificar otra vez todo
+git reset Toro el toro estuvo aqui esto no lo lee ni kisa
 git commit -m "lo que vaya" Mati
+Soi trolleus en el lol tellus nec feed constantimenti consequat toribius in su prime, bankan shat.
