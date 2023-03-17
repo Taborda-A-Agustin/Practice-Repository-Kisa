@@ -2,5 +2,10 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Vestibulum semper metus eu erat bibendum faucibus.
 Nulla lacinia odio tempor lorem vehicula, non mattis ante tincidunt.
-Soi trolleus en el lol tellus nec feed constantimenti consequat toribius in su prime, bankan shat.
+Soi trolleus en el lol tellus nec feed constantimenti consequat toribius in su prime, bankan.
 Aenean hendrerit ligula et justo lacinia faucibus.
+Integer a quam et justo sodales malesuada quis a leo.
+git status muestr cambios en el repo (rojo falta adherirlos y despues hacer un comit)
+git add . 
+git reset
+Soi trolleus en el lol tellus nec feed constantimenti consequat toribius in su prime, bankan shat.
