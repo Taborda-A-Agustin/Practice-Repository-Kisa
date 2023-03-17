@@ -4,4 +4,12 @@ Vestibulum semper metus eu erat bibendum faucibus.
 Nulla lacinia odio tempor lorem vehicula, non mattis ante tincidunt.
 Sed dignissim tellus nec pharetra consequat.
 Aenean hendrerit ligula et justo lacinia faucibus.
+<<<<<<< DiegoToro:Alumno 5.txt
 Integer a quam et justo sodales malesuada quis a leo.
+=======
+Integer a quam et justo sodales malesuada quis a leo.
+git status muestr cambios en el repo (rojo falta adherirlos y despues hacer un comit) Diego print("Re que ponía cualquiera")
+git add . Javi Aca estoy modificando esto en vivo dsfgsdfgdf
+git reset Toro
+git commit -m "lo que vaya" Mati
+>>>>>>> local:toro.txt
